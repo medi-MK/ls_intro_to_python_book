@@ -1,0 +1,1 @@
+This is a repository with the exercises from the Introduction to Python Programming book at Launch School
