@@ -1,0 +1,1 @@
+'12' < '9' # evaluates to True as Python does a character by character comparison
