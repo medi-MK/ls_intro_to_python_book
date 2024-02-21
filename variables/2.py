@@ -1,0 +1,1 @@
+# Function names follw the same guidelines as standard variables -- the same answer as 1.py 
