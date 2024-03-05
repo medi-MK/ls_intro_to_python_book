@@ -1,0 +1,1 @@
+# Sets differ from sequences because they are unordered, non-indexed, and must contain only unique objects

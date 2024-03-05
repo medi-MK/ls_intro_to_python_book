@@ -1,0 +1,1 @@
+# We can treat strings as sequences because they are ordered and indexable
